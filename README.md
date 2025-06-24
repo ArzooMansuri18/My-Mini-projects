@@ -12,7 +12,7 @@ Welcome to my collection of beginner-friendly frontend mini projects built using
 
 2. **🎨 Random Color Generator**
    - Generates a new random background color on button click.
-   - [Live Demo](https://arzoomansuri18.github.io/My-Mini-projects/Random%20color%20generator/) | [Source Code](#)
+   - [Live Demo](https://arzoomansuri18.github.io/My-Mini-projects/Random%20color/) | [Source Code](#)
 
 3. **💬 Random Quote Generator**
    - Displays a random motivational quote each time.
