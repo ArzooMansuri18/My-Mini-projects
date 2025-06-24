@@ -1,4 +1,5 @@
 #Mini web projects by Arzoo Mansuri
+
 Welcome to my collection of beginner-friendly frontend mini projects built using **HTML**, **CSS**, and **JavaScript**. Each project focuses on a specific UI or functionality concept and helped me practice and grow as a web developer.
 
 ---
