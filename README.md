@@ -8,31 +8,31 @@ Welcome to my collection of beginner-friendly frontend mini projects built using
 
 1. **🌙 Light/Dark Mode Toggle**
    - A simple toggle between light and dark themes.
-   - [Live Demo](#) | [Source Code](#)
+   - [Live Demo](https://arzoomansuri18.github.io/My-Mini-projects/Mode%20toggle/) | [Source Code](#)
 
 2. **🎨 Random Color Generator**
    - Generates a new random background color on button click.
-   - [Live Demo](#) | [Source Code](#)
+   - [Live Demo](https://arzoomansuri18.github.io/My-Mini-projects/Random%20color%20generator/) | [Source Code](#)
 
 3. **💬 Random Quote Generator**
    - Displays a random motivational quote each time.
-   - [Live Demo](#) | [Source Code](#)
+   - [Live Demo](https://arzoomansuri18.github.io/My-Mini-projects/Random%20quote%20generator/) | [Source Code](#)
 
 4. **⏰ Digital Clock**
    - Real-time digital clock using JS `Date()` object.
-   - [Live Demo](#) | [Source Code](#)
+   - [Live Demo](https://arzoomansuri18.github.io/My-Mini-projects/Digital%20clock/) | [Source Code](#)
 
 5. **🔢 Counter App**
    - A simple app with increment, decrement, and reset features.
-   - [Live Demo](#) | [Source Code](#)
+   - [Live Demo](https://arzoomansuri18.github.io/My-Mini-projects/Counter%20app/) | [Source Code](#)
 
 6. **🖼️ Image Slider**
    - Auto/manual slider for images with transitions.
-   - [Live Demo](#) | [Source Code](#)
+   - [Live Demo](https://arzoomansuri18.github.io/My-Mini-projects/Image%20slider/) | [Source Code](#)
 
 7. **📝 Form Validation**
    - Validates inputs like name, email, and password.
-   - [Live Demo](#) | [Source Code](#)
+   - [Live Demo](https://arzoomansuri18.github.io/My-Mini-projects/Form%20validation/) | [Source Code](#)
 
 ---
 
