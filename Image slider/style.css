@@ -8,10 +8,10 @@
 }
 
 .content {
-    height: 100vh;
+    height: 90vh;
     width: 100vw;
     color: white;
-    margin-top: 7vh;
+    margin-top: 3vh;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -43,4 +43,28 @@ button {
     font-weight: bold;
     cursor: pointer;
     position: relative;
+}
+
+@media (width <= 430px) {
+    .container{
+        height: 90vh;
+        width: 90vw;
+        display: flex;
+    }
+
+    .container img{
+        height: 60vh;
+        width: auto;
+    }
+    .container #next{
+        position: absolute;
+        right: 30%;
+        bottom: 20px;
+    }
+
+    .container #prev{
+        position: absolute;
+        right: 60%;
+        bottom: 20px;
+    }
 }
