@@ -47,7 +47,7 @@ button {
 
 @media (width <= 430px) {
     .content{
-        height: 90vh;
+        height: auto;
         width: 100vw;
         margin: 0;
         display: flex;
