@@ -72,6 +72,8 @@ button {
         width: auto;
     }
     .container #next{
+        height: 45px;
+        width: 45px;
         position: absolute;
         right: 30%;
         bottom: 20px;
@@ -79,6 +81,8 @@ button {
     }
 
     .container #prev{
+        height: 45px;
+        width: 45px;
         position: absolute;
         right: 60%;
         bottom: 20px;
