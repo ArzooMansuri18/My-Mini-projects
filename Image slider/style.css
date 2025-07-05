@@ -75,13 +75,13 @@ button {
         position: absolute;
         right: 30%;
         bottom: 20px;
-        font-size: large;
+        font-size: 50px;
     }
 
     .container #prev{
         position: absolute;
         right: 60%;
         bottom: 20px;
-        font-size: large;
+        font-size: 50px;
     }
 }
